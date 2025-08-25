@@ -97,7 +97,7 @@ nav{
 }
 .imgg p{
     margin: 0;
-    font-size: 14px; 
+    font-size: 14px; /
     color: #333;
 }
 .imgg1 img{
@@ -210,13 +210,11 @@ main{
     margin-right:5px;
 }
 
-.progress_circle{
-    height:20px;
-}
+
 .progress_circle{
     display: inline-flex;
     justify-content: center; 
-    
+    height:20px;
 }
 .eye{
     height:30px;
